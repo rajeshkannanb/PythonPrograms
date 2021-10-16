@@ -1,5 +1,5 @@
 # compositions of classes - Use a class inside another class.
-# Composite classes have "has-a" relationship.
+# Composite classes have "part-of" relationship.
 
 class Salary:
     __pay = None
